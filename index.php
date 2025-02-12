@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> Document </title>
+        <title> document </title>
 </head>
 <?php
 echo "<h2>Hello World</2>";
